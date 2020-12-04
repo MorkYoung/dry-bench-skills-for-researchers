@@ -32,3 +32,5 @@
 
 
 - Test fetching information from the remote upstream
+
+- A list of commonly used Git commands: https://github.com/joshnh/Git-Commands
